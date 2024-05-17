@@ -1,0 +1,11 @@
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.exe
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\bin\Debug\AttendanceSystem.pdb
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csprojAssemblyReference.cache
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.MainForm.resources
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.Properties.Resources.resources
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.GenerateResource.cache
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.csproj.CoreCompileInputs.cache
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.exe
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.pdb
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.UserManage.resources
+D:\workspace_c#\AttendanceSystem\AttendanceSystem\obj\Debug\AttendanceSystem.User.resources
